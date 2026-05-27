@@ -1,0 +1,45 @@
+/* Fondo general */
+body{
+    background-color: oklab(82.714% -0.0679 -0.06582);
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+/* Título principal */
+h1{
+    color: #010915;
+    font-weight: bold;
+}
+
+/* Subtítulos */
+h2{
+    color: #333;
+    margin-bottom: 15px;
+    font-weight: bold;
+}
+
+/* Cards */
+.card{
+    border-radius: 15px;
+    box-shadow: 0px 4px 10px rgba(0,0,0,0.1);
+    border: none;
+}
+
+/* Texto */
+p, li{
+    font-size: 16px;
+}
+
+/* Links */
+a{
+    text-decoration: none;
+    color: #0d6efd;
+}
+
+a:hover{
+    color: #084298;
+}
+
+/* Espaciado */
+section{
+    padding: 10px;
+}
